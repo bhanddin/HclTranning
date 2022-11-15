@@ -4,12 +4,36 @@ dinesh
 Second user name
 preeti
 preeti please enter message for dinesh
-k 6
-dinesh'gets message: k 6
-				[Tue 15-11-2022 12:53 PM]
+hello how are you
+dinesh'gets message: hello how are you
+				[Tue 15-11-2022 02:13 PM]
+dinesh please enter message for preeti
+hi i am doing fine
+preeti'gets message: hi i am doing fine
+				[Tue 15-11-2022 02:13 PM]
+preeti please enter message for dinesh
+where are you
+dinesh'gets message: where are you
+				[Tue 15-11-2022 02:13 PM]
+dinesh please enter message for preeti
+dallas and you
+preeti'gets message: dallas and you
+				[Tue 15-11-2022 02:13 PM]
+preeti please enter message for dinesh
+california
+dinesh'gets message: california
+				[Tue 15-11-2022 02:13 PM]
+dinesh please enter message for preeti
+see you soon3.
+preeti'gets message: see you soon3.
+				[Tue 15-11-2022 02:13 PM]
+preeti please enter message for dinesh
+
+dinesh'gets message: 
+				[Tue 15-11-2022 02:13 PM]
 dinesh please enter message for preeti
 bye
 preeti'gets message: bye
-				[Tue 15-11-2022 12:53 PM]
+				[Tue 15-11-2022 02:13 PM]
 dinesh say bye  
  Ending chat
