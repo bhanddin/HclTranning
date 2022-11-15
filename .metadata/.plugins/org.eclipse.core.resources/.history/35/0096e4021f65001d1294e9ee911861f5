@@ -1,0 +1,5 @@
+package com.MediatorPatterns;
+
+public abstract class Participant {
+
+}
