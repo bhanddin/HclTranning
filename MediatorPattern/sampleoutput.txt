@@ -1,0 +1,15 @@
+Enter bye to close your chat
+first user name
+dinesh
+Second user name
+preeti
+preeti please enter message for dinesh
+k 6
+dinesh'gets message: k 6
+				[Tue 15-11-2022 12:53 PM]
+dinesh please enter message for preeti
+bye
+preeti'gets message: bye
+				[Tue 15-11-2022 12:53 PM]
+dinesh say bye  
+ Ending chat
