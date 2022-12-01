@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\prade\OneDrive\Desktop\hclnew\HclTranning\MediatorPattern"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,14 +26,20 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.Dinesh"/>
+			<item value="com.DesignPatterns"/>
 			<item value="com.MediatorPatterns"/>
 			<item value="com.Hcl.JavaDesignPattern"/>
 		</list>
 		<list key="groupId">
+			<item value="com.Dinesh"/>
+			<item value="com.DesignPatterns"/>
 			<item value="com.MediatorPatterns"/>
 			<item value="com.Hcl"/>
 		</list>
 		<list key="artifactId">
+			<item value="EmployeeManagement"/>
+			<item value="DesignPattern"/>
 			<item value="MediatorPattern"/>
 			<item value="JavaDesignPattern"/>
 		</list>
