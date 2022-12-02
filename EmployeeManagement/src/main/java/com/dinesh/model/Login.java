@@ -27,8 +27,6 @@ public class Login {
     @Column(name="name")
     protected String name;
 
-
-    
     @Column(name="password")
     protected String password;
 
